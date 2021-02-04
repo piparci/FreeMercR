@@ -133,6 +133,20 @@
 
       </LinearLayout>
 
+      <LinearLayout
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:layout_marginTop="35dp"
+          android:orientation="vertical">
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="30dp"
+            android:text="Ensayito" />
+
+      </LinearLayout>
+
     </LinearLayout>
   </ScrollView>
 
