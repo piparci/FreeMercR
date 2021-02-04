@@ -121,7 +121,7 @@
       <LinearLayout
           android:layout_width="match_parent"
           android:layout_height="wrap_content"
-          android:layout_marginTop="15dp"
+          android:layout_marginTop="35dp"
           android:orientation="vertical">
 
         <Button
@@ -131,43 +131,8 @@
             android:layout_marginHorizontal="30dp"
             android:text="Entrar" />
 
-        <Button
-            android:id="@+id/button2"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_marginHorizontal="30dp"
-            android:layout_marginTop="8dp"
-            android:text="REGISTRARSE" />
       </LinearLayout>
 
-      <LinearLayout
-          android:layout_width="match_parent"
-          android:layout_height="wrap_content"
-          android:layout_marginHorizontal="30dp"
-          android:layout_marginTop="35dp"
-          android:layout_marginBottom="29dp"
-          android:orientation="horizontal">
-
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_weight="1"
-            android:gravity="center"
-            android:text="¿Quieres ser parte de FreeMerc? "
-            android:textSize="15sp"
-            android:textStyle="bold" />
-
-        <TextView
-            android:id="@+id/registro_usuario"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_weight="1"
-            android:padding="5dp"
-            android:gravity="center"
-            android:text="Click aquí"
-            android:textSize="15sp"
-            android:textStyle="italic|bold" />
-      </LinearLayout>
     </LinearLayout>
   </ScrollView>
 
