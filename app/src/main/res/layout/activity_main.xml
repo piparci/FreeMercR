@@ -38,12 +38,7 @@
           android:layout_marginTop="30dp"
           android:gravity="center">
 
-        <ImageView
-            android:id="@+id/imageView"
-            android:layout_width="170dp"
-            android:layout_height="170dp"
-            android:layout_gravity="center"
-            app:srcCompat="@mipmap/icono_freemerc" />
+
       </LinearLayout>
 
       <LinearLayout
