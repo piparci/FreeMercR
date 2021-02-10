@@ -1,0 +1,18 @@
+Index: app/src/main/res/layout/activity_registros.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"utf-8\"?>\r\n<LinearLayout\r\n    xmlns:android=\"http://schemas.android.com/apk/res/android\"\r\n    xmlns:app=\"http://schemas.android.com/apk/res-auto\"\r\n    xmlns:tools=\"http://schemas.android.com/tools\"\r\n    android:layout_width=\"match_parent\"\r\n    android:layout_height=\"match_parent\"\r\n    tools:context=\".Registros\">\r\n\r\n  <LinearLayout\r\n      android:layout_width=\"match_parent\"\r\n      android:layout_height=\"wrap_content\"\r\n      android:gravity=\"center\"\r\n      android:layout_marginTop=\"10dp\">\r\n\r\n    <TextView\r\n        android:id=\"@+id/textView2\"\r\n        android:layout_width=\"wrap_content\"\r\n        android:layout_height=\"wrap_content\"\r\n        android:text=\"INICIAR \"\r\n        android:textSize=\"28sp\"\r\n        android:textStyle=\"bold\" />\r\n  </LinearLayout>\r\n\r\n\r\n</LinearLayout>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/src/main/res/layout/activity_registros.xml	(revision 0756fcfcfa207567fa0e0211acdee96de31ffa03)
++++ app/src/main/res/layout/activity_registros.xml	(date 1612984403486)
+@@ -17,7 +17,7 @@
+         android:id="@+id/textView2"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+-        android:text="INICIAR "
++        android:text="clic "
+         android:textSize="28sp"
+         android:textStyle="bold" />
+   </LinearLayout>
