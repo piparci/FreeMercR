@@ -26,6 +26,7 @@
         android:layout_height="match_parent"
         android:layout_marginTop="2dp"
         android:layout_marginBottom="1px"
+        android:gravity="center"
         android:text="hola "/>
 
   </LinearLayout>
