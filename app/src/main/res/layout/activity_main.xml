@@ -78,7 +78,7 @@
               android:ems="10"
               android:focusable="true"
               android:layout_marginHorizontal="30dp"
-              android:hint="Usuario"
+              android:hint="123"
               android:inputType="textPersonName"/>
         </com.google.android.material.textfield.TextInputLayout>
 
