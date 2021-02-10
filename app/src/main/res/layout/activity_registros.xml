@@ -24,8 +24,9 @@
     <Button
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:text="hola ">
-    </Button>
+        android:text="hola..."
+        android:layout_marginTop="1px"
+        />
 
   </LinearLayout>
 
